@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdf/main.pdf</loc>
+<lastmod>2025-08-19T20:29:56+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdf/med-sample-3-complete.pdf</loc>
+<lastmod>2025-08-18T17:08:53+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/pdf/med-sample.pdf</loc>
+<lastmod>2025-08-18T17:11:27+02:00</lastmod>
+</url>
+</urlset>

@@ -1,11 +1,12 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Clinical Research Paper
+subtitle: FR <-> EN | Full Typesetting
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: med-sample-3-cover.png
+pdf: med-sample-3-complete.pdf
+thumbnail: med-sample-3-cover.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
